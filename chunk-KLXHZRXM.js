@@ -1,1 +1,0 @@
-import{Bb as a,Cb as i,Vb as r,Zb as p,ka as o}from"./chunk-743WUKBY.js";var d=(()=>{let e=class e{};e.\u0275fac=function(n){return new(n||e)},e.\u0275cmp=o({type:e,selectors:[["app-home-page"]],standalone:!0,features:[p],decls:2,vars:0,template:function(n,s){n&1&&(a(0,"p"),r(1,"home-page works!"),i())},changeDetection:0});let t=e;return t})();export{d as HomePageComponent};
