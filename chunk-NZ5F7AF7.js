@@ -1,0 +1,1 @@
+var t=/^[\w\d_]+@[\w\d_]+\.\w{2,7}$/,d="manager",n="user",o=function(e){return e.invalidUniqueKey="invalidUniqueKey",e.rideNotFound="rideNotFound",e.alreadyBooked="alreadyBooked",e}(o||{});export{t as a,d as b,n as c,o as d};
